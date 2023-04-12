@@ -1879,7 +1879,7 @@ The Current Group affects quota and other settings for the user.
 To change the group, clicking the group name in the upper left of the screen,
 and select your preferred group from the listed groups.
 
-![change group](../images/change_group_new.png)
+![change group](../images/change_group.png)
 
 #### Creating a Group
 
